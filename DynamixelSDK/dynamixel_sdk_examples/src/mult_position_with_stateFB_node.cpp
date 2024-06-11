@@ -16,7 +16,7 @@
 //
 //  Realized Speed :: Chk on core i7 14Gen  
 //    4Dyna @ 1M Bps (Just read status data) ==> 500Hz MAX
-//    4Dyna @ 4M Bps (Just read status data) ==> 1000Hz MAX
+//    4Dyna @ 4M Bps (Just read status data) ==> 1000Hz MAX a
 //    
 
 

@@ -156,6 +156,7 @@ PosCtrNode::PosCtrNode()
       );
     }
     );
+    
 
   
   pos_publisher = this->create_publisher<std_msgs::msg::Int32>("sns/pos", 10);
